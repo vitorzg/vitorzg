@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @vitorZu
 - 👀 I’m interested in Desenvolvimento e Tecnologia.
+- Tenta se tornar um Dev.
