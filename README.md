@@ -12,3 +12,4 @@
           
 * Brincando e aprendendo web com <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
           
+(Sim! Ainda não achei a linguagem qual quero me fixar)
