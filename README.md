@@ -10,5 +10,5 @@
           
 * Estudando Flutter por conta própria <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
           
-          
+* Brincando e aprendendo web com <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
           
