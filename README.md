@@ -1,5 +1,8 @@
 ## **Hello World! Sou Vitor **
 
+## Contato:
+<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNABM7IfHQdu0B0DW%2FpdhOw%3D%3D" ><img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><\a>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-zucon-9969a41bb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorZu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
