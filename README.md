@@ -27,10 +27,11 @@
 
 ##
 <br>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,flutter,dart,git,github&theme=dark)](https://skillicons.dev)
-
-<br>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flutter,dart,git,github&theme=dark" />
+  </a>
+</p>
 
 ## 
 <div align="center">
