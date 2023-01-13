@@ -28,7 +28,7 @@
 ##
 <br>
   <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/vitorZu?tab=repositories">
     <img src="https://skillicons.dev/icons?i=html,css,js,python,django,flutter,dart,git,github&theme=dark" />
   </a>
 </p>
