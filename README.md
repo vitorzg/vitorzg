@@ -1,7 +1,17 @@
 
-<img height="150em" src="https://cdn.picrew.me/shareImg/org/202301/197705_eaxUSdHt.png" />  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=400&color=3E287A&center=true&vCenter=false&width=700&lines=Hello+World+!+%F0%9F%8C%8E;I'am+Vitor+Zucon.;Welcome+!%F0%9F%98%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=100&color=3E287A&center=true&vCenter=true&width=1000&lines=Hello+World+!+%F0%9F%8C%8E;I'am+Vitor+Zucon.;Welcome+!%F0%9F%98%81)](https://git.io/typing-svg)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=5C3878"/>
+
+##
+
+* Atualmente estou cursando ensino superior em Análise e Desenvolvimento de Sistemas <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+          
+* Estudando Flutter por conta própria <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
+          
+* Brincando e aprendendo web com <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+  
+(Sim! Ainda não achei a linguagem qual quero me fixar)
 
 ##
 
@@ -16,22 +26,15 @@
 </div>
 
 ##
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,django,flutter,dart,git,github&theme=dark)](https://skillicons.dev)
 
 <br>
-  
-  
-  
-* Atualmente estou cursando ensino superior em Análise e Desenvolvimento de Sistemas <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-          
-* Estudando Flutter por conta própria <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> 
-          
-* Brincando e aprendendo web com <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  
-(Sim! Ainda não achei a linguagem qual quero me fixar)
 
 ## 
 <div align="center">
-  <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNABM7IfHQdu0B0DW%2FpdhOw%3D%3D" ><img heigh= 114rem width= 114rem src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img height="130em" src="https://cdn.picrew.me/shareImg/org/202301/197705_eaxUSdHt.png" /> <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNABM7IfHQdu0B0DW%2FpdhOw%3D%3D" ><img heigh= 114rem width= 114rem src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/zuconvitor?igshid=YmMyMTA2M2Y=" ><img heigh=125rem width=125rem src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:vitor.zucon25@gmail.com" ><img heigh=90rem width=90rem src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://wa.me/5518997953113" ><img heigh=120rem width=120rem src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -41,5 +44,5 @@
   
   
 <p align="center"> 
-<a href="https://github.com/vitorZu/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorZu&theme=dracula" alt="vitorZu" /></a>
+<a href="https://github.com/vitorZu/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorZu&theme=dracula" alt="vitorZu" /></a> 
 </p>
