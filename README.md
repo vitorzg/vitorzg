@@ -1,15 +1,19 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=400&color=3E287A&center=true&vCenter=false&width=1000&lines=Hello+World+!+%F0%9F%8C%8E;I'am+Vitor+Zucon.;Welcome+!%F0%9F%98%81)](https://git.io/typing-svg)
-<img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=5C3878"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=5C3878"/>
 ##
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-zucon-9969a41bb">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorZu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorZu&theme=dark" alt="VitorZu" />
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorZu&layout=compact&langs_count=7&theme=dark"/>
-  <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorZu&theme=dark" alt="VitorZu" />
+  
 </div>
-  <br>
+
+##
+
+<br>
   
   
   
