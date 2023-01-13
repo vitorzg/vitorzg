@@ -30,3 +30,8 @@
 </div>
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=5C3878"/>
+  
+  
+<p align="center"> 
+<a href="https://github.com/vitorZu/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorZu&theme=dracula" alt="vitorZu" /></a>
+</p>
