@@ -35,10 +35,10 @@
 
 ## 
 <div align="center">
-  <img height="130em" src="https://cdn.picrew.me/shareImg/org/202301/197705_eaxUSdHt.png" /> <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNABM7IfHQdu0B0DW%2FpdhOw%3D%3D" ><img heigh= 114rem width= 114rem src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img height="130em" src="https://avatars.githubusercontent.com/u/110358832?s=400&u=e1396ee09968856cdab025fddf9111c699929a76&v=4" /> <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNABM7IfHQdu0B0DW%2FpdhOw%3D%3D" ><img heigh= 114rem width= 114rem src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/zuconvitor?igshid=YmMyMTA2M2Y=" ><img heigh=125rem width=125rem src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="mailto:vitor.zucon25@gmail.com" ><img heigh=90rem width=90rem src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/5518997953113" ><img heigh=120rem width=120rem src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:vitor.zucon25@gmail.com" ><img heigh=88rem width=88rem src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/5518997953113" ><img heigh=118rem width=118rem src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=5C3878"/>
