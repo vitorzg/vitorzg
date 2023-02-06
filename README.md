@@ -9,7 +9,7 @@
 
 <br>
 
-* <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Meu foco de estudo autodidata atualmente vem sendo o Desenvolvimento Web usando o Framework do Python, o Django. <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+* <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Meu foco de estudo autodidata atualmente vem sendo o Desenvolvimento Web usando Python.
 * <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> Também me interesso muito pelo desenvolvimento Mobile e venho estudando e gostando muito de Flutter e Dart. <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
 
 ##
