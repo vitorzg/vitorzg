@@ -6,7 +6,7 @@
 ##
 
 * 📖 Atualmente estou cursando ensino superior em Análise e Desenvolvimento de Sistemas. 📖
-
+<hr>
 <br>
 
 * <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Meu foco de estudo autodidata atualmente vem sendo o Desenvolvimento Web usando Python.
