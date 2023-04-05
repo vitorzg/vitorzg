@@ -5,12 +5,8 @@
 
 ##
 
-* 📖 Atualmente estou cursando ensino superior em Análise e Desenvolvimento de Sistemas. 📖
-<hr>
-<br>
-
-* <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> Meu foco de estudo autodidata atualmente vem sendo o Desenvolvimento Web usando Python.
-* <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" /> Também me interesso muito pelo desenvolvimento Mobile e venho estudando e gostando muito de Flutter e Dart. <img heigh=20rem width=20rem src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" /> 
+<h2>💬 "About Me:</h2>
+I am a student of System Analysis and Development, currently learning and working on projects with Python and Flutter. I am passionate about technology and programming. I am always looking to learn new things and apply my knowledge in personal and professional projects. My goal is to become a highly skilled software developer and contribute to the development community.
 
 ##
 
@@ -21,23 +17,22 @@
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorZu&theme=dark" alt="VitorZu" />
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorZu&layout=compact&langs_count=7&theme=dark"/>
     
-  
 </div>
 
-##
 <br>
+  <h2 align="center">Technologies:</h2>
   <p align="center">
   <a href="https://github.com/vitorZu?tab=repositories">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,flutter,dart,git,github&theme=dark" />
   </a>
 </p>
 
-## 
+
+<h2 align="center">Communication</h2>
 <div align="center">
 <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNABM7IfHQdu0B0DW%2FpdhOw%3D%3D" ><img heigh= 114rem width= 114rem src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/zuconvitor?igshid=YmMyMTA2M2Y=" ><img heigh=125rem width=125rem src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:vitor.zucon25@gmail.com" ><img heigh=88rem width=88rem src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/5518997953113" ><img heigh=118rem width=118rem src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=5C3878"/>
