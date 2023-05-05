@@ -6,7 +6,7 @@
 ##
 
 <h2 align="center">💬 About Me:</h2>
-I am a student of System Development, currently learning and working on projects with Python and Flutter. I am passionate about technology and programming. I am always looking to learn new things and apply my knowledge in personal and professional projects. My goal is to become a highly skilled software developer and contribute to the development community.
+I am a student of System Development, currently learning and working on projects with Python and PHP. I am passionate about technology and programming. I am always looking to learn new things and apply my knowledge in personal and professional projects. My goal is to become a highly skilled software developer and contribute to the development community.
 
 ##
 
