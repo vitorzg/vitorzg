@@ -13,16 +13,16 @@ I am a student of System Development, currently learning and working on projects
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/vitor-zucon-9969a41bb">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorZu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorZu&theme=dark" alt="VitorZu" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorZu&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorzg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorzg&theme=dark" alt="Vitorzg" />
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorzg&layout=compact&langs_count=7&theme=dark"/>
     
 </div>
 
 <br>
   <h2 align="center">Technologies:</h2>
   <p align="center">
-  <a href="https://github.com/vitorZu?tab=repositories">
+  <a href="https://github.com/vitorzg?tab=repositories">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,python,django,php,git,github&theme=dark" />
   </a>
 </p>
@@ -39,5 +39,5 @@ I am a student of System Development, currently learning and working on projects
   
   
 <p align="center"> 
-<a href="https://github.com/vitorZu/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorZu&theme=dracula" alt="vitorZu" /></a> 
+<a href="https://github.com/vitorzg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorzg&theme=dracula" alt="vitorzg" /></a> 
 </p>
