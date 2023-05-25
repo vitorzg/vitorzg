@@ -37,6 +37,7 @@ I am a student of System Development, currently learning and working on projects
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=5C3878"/>
   
+![Snake animation](https://github.com/vitorzg/vitorzg/blob/output/github-contribution-grid-snake.svg)
   
 <p align="center"> 
 <a href="https://github.com/vitorzg/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vitorzg&theme=dracula" alt="vitorzg" /></a> 
