@@ -23,8 +23,10 @@ I am a student of System Development, currently learning and working on projects
   <h2 align="center">Technologies:</h2>
   <p align="center">
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,django,php,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github&theme=dark" />
   </a>
+  <h3 align="center">Study: </h3>
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,eclipse&theme=dark" />
 </p>
 
 
