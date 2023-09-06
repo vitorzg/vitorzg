@@ -29,7 +29,7 @@ I am a student of System Development, currently learning and working on projects
   <h3 align="center">Study: </h3>
   <p align="center">
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,eclipse,postgres&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,kotlin,androidstudio&theme=light" />
   </a>
   </p>
 
