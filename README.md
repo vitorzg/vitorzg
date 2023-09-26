@@ -12,7 +12,6 @@ I am a student of System Development, currently learning and working on projects
 
 <br>
 <div align="center">
-  <a href="https://www.linkedin.com/in/vitor-zucon-9969a41bb">
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorzg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorzg&theme=dark" alt="Vitorzg" />
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorzg&layout=compact&langs_count=7&theme=dark"/>
