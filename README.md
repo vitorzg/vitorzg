@@ -12,9 +12,9 @@ I am a student of System Development, currently learning and working on projects
 
 <br>
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorzg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorzg&theme=dark" alt="Vitorzg" />
-  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorzg&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorzg&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=5D2DA8&text_color=82ADEF&bg_color=000d1117"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vitorzg&layout=compact&langs_count=7&theme=dark&hide_border=true&text_color=82ADEF&bg_color=000d1117"/>
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorzg&bg_color=000d1117&color=5D2DA8&line=5D2DA8&point=82ADEF&area=false&hide_border=true" alt="Vitorzg" />
     
 </div>
 
