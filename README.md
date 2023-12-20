@@ -6,7 +6,7 @@
 ##
 
 <h2 align="center">💬 About Me:</h2>
-I am a student of System Development, currently learning and working on projects with Python and PHP. I am passionate about technology and programming. I am always looking to learn new things and apply my knowledge in personal and professional projects. My goal is to become a highly skilled software developer and contribute to the development community.
+I am a System Development student, presently delving into Java with Spring|Maven and Python with Django for my projects. My enthusiasm for technology and programming drives me to consistently explore and acquire new skills. I'm dedicated to assimilating knowledge and applying it to both personal and professional endeavors. My ultimate objective is to evolve into a proficient software developer and actively contribute to the development community.
 
 ##
 
@@ -22,13 +22,13 @@ I am a student of System Development, currently learning and working on projects
   <h2 align="center">Technologies:</h2>
   <p align="center">
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=php,python,django,mysql,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,mysql,git,github&theme=dark" />
   </a>
   </p>
   <h3 align="center">Study: </h3>
   <p align="center">
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,react,typescript&theme=light" />
   </a>
   </p>
 
