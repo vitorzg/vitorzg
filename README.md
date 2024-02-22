@@ -22,13 +22,13 @@ I am a System Development student, presently delving into Java with Spring|Maven
   <h2 align="center">Technologies:</h2>
   <p align="center">
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,mysql,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,mysql&theme=dark" />
   </a>
   </p>
   <h3 align="center">Study: </h3>
   <p align="center">
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,react,typescript&theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=light" />
   </a>
   </p>
 
