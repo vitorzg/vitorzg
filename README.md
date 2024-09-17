@@ -47,6 +47,7 @@ I am a System Development student, presently delving into Java with Spring|Maven
 <div align="center">
 <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNABM7IfHQdu0B0DW%2FpdhOw%3D%3D" ><img heigh= 114rem width= 114rem src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vitor.zucon25@gmail.com" ><img heigh=88rem width=88rem src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/zuconvitor/" ><img heigh=125rem width=125rem src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </div>
 
 <img width=150% src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=5C3878"/>
