@@ -20,11 +20,26 @@ I am a System Development student, presently delving into Java with Spring|Maven
 
 <br>
   <h2 align="center">Technologies:</h2>
-  <p align="center">
+  <div align="center">
+  <h3 align="center">WEB Backend</h3>
+  
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,mysql,postgres&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,fastapi&theme=dark" />
   </a>
-  </p>
+    
+  <h3 align="center">Mobile</h3>
+  <a href="https://github.com/vitorzg?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=java,flutter,dart&theme=dark" />
+  </a>
+  <h3 align="center">DBs</h3>
+  <a href="https://github.com/vitorzg?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite&theme=dark" />
+  </a>
+  <h3 align="center">Frontend...</h3>
+  <a href="https://github.com/vitorzg?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+  </a>
+  </div>
   
 <br>
 
