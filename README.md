@@ -5,11 +5,6 @@
 
 ##
 
-<h2 align="center">💬 About Me:</h2>
-I am a System Development student, presently delving into Java with Spring|Maven and Python with Django for my projects. My enthusiasm for technology and programming drives me to consistently explore and acquire new skills. I'm dedicated to assimilating knowledge and applying it to both personal and professional endeavors. My ultimate objective is to evolve into a proficient software developer and actively contribute to the development community.
-
-##
-
 <br>
 <div align="center">
   <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vitorzg&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&icon_color=5D2DA8&text_color=82ADEF&bg_color=000d1117"/>
