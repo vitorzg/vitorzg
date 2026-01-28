@@ -3,10 +3,6 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=5C3878"/>
 <br>
-<div align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorzg&bg_color=000d1117&color=5D2DA8&line=5D2DA8&point=82ADEF&area=false&hide_border=true" alt="Vitorzg" />
-    
-</div>
 
 <br>
   <h2 align="center">Technologies:</h2>
