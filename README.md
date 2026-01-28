@@ -14,20 +14,28 @@
   <h3 align="center">WEB Backend</h3>
   
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,django,fastapi&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,python,fastapi&theme=dark" />
   </a>
     
   <h3 align="center">Mobile</h3>
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=java,flutter,dart&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,flutter,dart&theme=dark" />
   </a>
   <h3 align="center">DBs</h3>
   <a href="https://github.com/vitorzg?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,sqlite&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase&theme=dark" />
+  </a>
+  <h3 align="center">Deploy</h3>
+  <a href="https://github.com/vitorzg?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=docker,aws,gcp&theme=dark" />
   </a>
   <h3 align="center">Frontend...</h3>
   <a href="https://github.com/vitorzg?tab=repositories">
     <img src="https://skillicons.dev/icons?i=react,angular&theme=dark" />
+  </a>
+  <h3 align="center">Game Dev</h3>
+  <a href="https://github.com/vitorzg?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=gamemakerstudio&theme=dark" />
   </a>
   </div>
   
